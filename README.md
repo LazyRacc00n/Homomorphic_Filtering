@@ -6,6 +6,6 @@ An image can be expressed as the product of its illumination, _i(x,y)_, and refl
 
 This filter is useful for attenuate the contribution made by the low frequencies(illumination) and amplify the contribution made by high frequencies(reflectance): The result is simultaneaous dynamic range compression and contrast enhacement.
 
-The costant _C_ control the sharpness of the function as it transition between deltaL and deltaH.
+The costant _C_ control the sharpness of the function as it transition between _deltaL_ and _deltaH_.
 
 If _gH>=1_ and _0<gL<1_ the high frequencies are amplified and the low frequencies are cutted off, _gL_ is also used to preserve the tonality of the image.
