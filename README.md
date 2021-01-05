@@ -1,6 +1,6 @@
 # Homomorphic Filtering
 
-This code implement an [Homomorphic filter](https://en.wikipedia.org/wiki/Homomorphic_filtering) in the frequency domain.
+This code implement an [Homomorphic filter](https://en.wikipedia.org/wiki/Homomorphic_filtering) in the frequency domain in python.
 
 An image can be expressed as the product of its illumination, _i(x,y)_, and reflectance, _r(x,y): f(x,y)=i(x,y)r(x,y)_. In general _i(x,y)_ and _r(x,y)_ are unkown but we want to operate this component separately.
 
